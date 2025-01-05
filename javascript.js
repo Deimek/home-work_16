@@ -2,7 +2,7 @@
 
 
 
-let sum = (function () {
+const sum = (function () {
 
     let suma = 0;
     return function (a) {
